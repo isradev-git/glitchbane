@@ -133,7 +133,7 @@ button {
   box-shadow: 0 0 0 200px inset var(--s, #0000),
     0 0 0 var(--border) inset var(--color);
   clip-path: var(--clip-path);
-  transition: color var(--t, 0.4s), background-size 0.4s;
+  /* transition: color var(--t, 0.4s), background-size 0.4s; */
 }
 button:focus-visible {
   outline-offset: calc(-1 * var(--border));
