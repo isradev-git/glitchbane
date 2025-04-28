@@ -560,7 +560,7 @@ color: var(--principal);
 }
 .contenido__work .card p {
   /*inset: auto auto 80px 30px;*/
-  inset: auto auto 180px 30px;
+  inset: auto auto 150px 30px;
 }
 .contenido__work .card a {
   /*inset: auto auto 40px 30px;*/
