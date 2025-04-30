@@ -8,7 +8,8 @@
 
 
 const MOVE_STEP = 10;
-const BASE_ROOT = "system@isradev.com:~$ ";
+// const BASE_ROOT = "system@system@isradev.com:~$ ";
+const BASE_ROOT = "system@system@glitchbane:~$ ";
 
 const cursor = document.getElementById("cursor");
 const typerElement = document.getElementById("typer");

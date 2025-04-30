@@ -17,8 +17,6 @@
   --principal-transparencia: #dd4d52dcff;
   --secundario: #3C4258ff;
   --blanco: #ffffff;
-
-
   /* --imperial-red: #E54C4Fff;
   --bittersweet-shimmer: #CB4D53ff;
   --cordovan: #954C57ff;
@@ -28,9 +26,9 @@
 
   /* terminal */
   --primaryTextColor: #fff;
-  --secundaryTextColor: #00ffff;
+  --secundaryTextColor: #fff200;
   --highlightTextColor: #ff6b6b;
-  --baseDirectory: "system@isradev.com:~$";
+  --baseDirectory: "system@glitchbane:~$";
 
   /* Buttons */
   --border: 1px;
@@ -250,6 +248,7 @@ section {
 .winbox .wb-header .wb-drag .wb-title {
   font-family: "Quantum", monospace;
   font-size: 20px;
+  margin: -6px;
   text-transform: uppercase;
 }
 .winbox .wb-header,
